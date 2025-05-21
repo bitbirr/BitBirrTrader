@@ -1,0 +1,5 @@
+{
+  "profit_target": 0.3,
+  "stop_loss": 0.1,
+  "slippage": 0.5
+}
